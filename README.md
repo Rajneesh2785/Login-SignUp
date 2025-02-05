@@ -1,3 +1,7 @@
+# About this project
+
+Login Signup is a simple React-based mini-project that implements a user authentication interface with login and signup functionality. This project utilizes the useState hook for managing form inputs and state handling. It provides a basic yet effective user experience for authentication, making it a great starting point for beginners learning React state management. 🚀
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
